@@ -1,1 +1,3 @@
-# apiarium
+# Apiarium
+
+Work in progress
